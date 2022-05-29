@@ -1,7 +1,7 @@
 # Installazione
 ### Prerequisiti
-- Visual Studio 2019 - [Scarica](https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads)
-- Workload .NET di Visual Studio 2019 (se in 2022 selezionare anche .NET 5.0)
+- Visual Studio 2022 - [Scarica](https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads)
+- Workload .NET di Visual Studio 2022 (selezionare anche .NET 5.0)
 - .NET Framework versione 4.8 Developer pack [Scarica](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 - VMware player o workstation - [Scarica](https://www.vmware.com/it/products/workstation-player/workstation-player-evaluation.html) - la versione Player è raccomandata perché è gratis.
 
@@ -64,7 +64,7 @@ Creazione e installazione
 (se hai già installato) Se hai modificato l'origine Cosmos DevKit utilizzando Cosmos.sln o Test.sln, assicurati di impostare la configurazione della soluzione su Debug x86.
 
 Assicurarsi che Visual Studio NON sia in esecuzione.
-Nella directory principale dei file DevKit scaricati in precedenza, eseguire .install-VS2019.bat
+Nella directory principale dei file DevKit scaricati in precedenza, eseguire .install-VS2022.bat
 Attendere l'avanzamento dell'installazione. (Suggerimento: alla fine l'installatore potrebbe sembrare in stallo, sta ancora facendo qualcosa, solo in background)
-VS si aprirà con Cosmos caricato. È ora possibile apportare modifiche agli assiemi principali di Cosmos. Se non lo si desidera, è possibile chiudere questa finestra VS e creare un nuovo progetto Cosmos come con il kit utente.
+È ora possibile apportare modifiche agli assiemi principali di Cosmos. Se non lo si desidera, è possibile chiudere questa finestra VS e creare un nuovo progetto Cosmos come con il kit utente.
 Buon Cosmos-are!
