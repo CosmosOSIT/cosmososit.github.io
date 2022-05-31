@@ -1,4 +1,5 @@
-# Benvenuto nella documentazione italiana non ufficiale di Cosmos!
+# Home
+### Benvenuto nella documentazione italiana non ufficiale di Cosmos!
 Se sei nuovo in Cosmos, benvenuto! Prima di rimanere bloccato nella API, noi raccomandiamo fortemente di visitare il sito web sotto.
 
 La sezione degli articoli in questo sito web include alcuni articoli che sono stati scritti qualche anno fa in siti web come [www.codeproject.com](https://www.codeproject.com) e sono solo per scopi di archiviazione. Questi elementi discussi come il Cosmos file system. Preferiamo che i nuovi arrivati che vogliono sviluppare i propri sistemi operativi leggano la documentazione API (non disponibile in italiano) mentre che si aggiornano gli articoli al progetto attuale di Cosmos.
